@@ -19,10 +19,10 @@ jobs:
           dotnet-version: '7.0.x'
           
       - name: Restore
-        run: dotnet restore ./CI-CD-Example/CurrentTimeService/CurrentTimeService.sln
+        run: dotnet restore ./CurrentTimeService/CurrentTimeService.sln
         
       - name: Build
-        run: dotnet build ./CI-CD-Example/CurrentTimeService/CurrentTimeService.sln --configuration Release --no-restore
+        run: dotnet build ./CurrentTimeService/CurrentTimeService.sln --configuration Release --no-restore
         
       - name: Publish
-        run: dotnet publish ./CI-CD-Example/CurrentTimeService/CurrentTimeService.sln --configuration Release --no-build
+        run: dotnet publish ./CurrentTimeService/CurrentTimeService.sln --configuration Release --no-build
