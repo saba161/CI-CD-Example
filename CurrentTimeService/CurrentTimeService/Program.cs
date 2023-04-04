@@ -19,5 +19,3 @@ if (app.Environment.IsDevelopment())
 app.MapGet("time/utc", () => Results.Ok(DateTime.UtcNow));
 
 await app.RunAsync();
-
-var s = 5
