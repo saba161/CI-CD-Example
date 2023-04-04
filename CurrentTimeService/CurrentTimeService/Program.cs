@@ -16,10 +16,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.MapGet("time/utc", () => Results.Ok(DateTime.UtcNow));
 
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();
+await app.RunAsync();

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "46wbK4krQ/79mjWLGrVZL452vBEtoHKrEpuZWthh2RU=",
+  "Source": "CurrentTimeService",
+  "BasePath": "_content/CurrentTimeService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
