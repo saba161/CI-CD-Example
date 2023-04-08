@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s.koguashvili\\Desktop\\CI-CD-Example\\CurrentTimeService\\CurrentTimeService\\CurrentTimeService.csproj": {}
+    "/Users/sabakoghuashvili/Desktop/CI-CD-Example/CurrentTimeService/CurrentTimeService/CurrentTimeService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s.koguashvili\\Desktop\\CI-CD-Example\\CurrentTimeService\\CurrentTimeService\\CurrentTimeService.csproj": {
+    "/Users/sabakoghuashvili/Desktop/CI-CD-Example/CurrentTimeService/CurrentTimeService/CurrentTimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s.koguashvili\\Desktop\\CI-CD-Example\\CurrentTimeService\\CurrentTimeService\\CurrentTimeService.csproj",
+        "projectUniqueName": "/Users/sabakoghuashvili/Desktop/CI-CD-Example/CurrentTimeService/CurrentTimeService/CurrentTimeService.csproj",
         "projectName": "CurrentTimeService",
-        "projectPath": "C:\\Users\\s.koguashvili\\Desktop\\CI-CD-Example\\CurrentTimeService\\CurrentTimeService\\CurrentTimeService.csproj",
-        "packagesPath": "C:\\Users\\s.koguashvili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s.koguashvili\\Desktop\\CI-CD-Example\\CurrentTimeService\\CurrentTimeService\\obj\\",
+        "projectPath": "/Users/sabakoghuashvili/Desktop/CI-CD-Example/CurrentTimeService/CurrentTimeService/CurrentTimeService.csproj",
+        "packagesPath": "/Users/sabakoghuashvili/.nuget/packages/",
+        "outputPath": "/Users/sabakoghuashvili/Desktop/CI-CD-Example/CurrentTimeService/CurrentTimeService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s.koguashvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sabakoghuashvili/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/sabakoghuashvili/.dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
